@@ -30,9 +30,3 @@ git diff --cached
 Compara con la versión local pero desde el último commit
 
 GIT genera un número diferente para cada versión de commit que almacena...
-
-git diff hash..hash 
-Compara dos versiones del archivo 
-
-git checkout -- <file>
-Deshace la versión modificada que no se había adicionado...
