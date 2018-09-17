@@ -28,3 +28,5 @@ Compara con la vesión local (solo lo modificado desde el último cambio)
 
 git diff --cached
 Compara con la versión local pero desde el último commit
+
+GIT genera un número diferente para cada versión de commit que almacena...
