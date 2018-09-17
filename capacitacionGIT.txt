@@ -1,0 +1,6 @@
+Capacitactión GIT
+-----------------
+
+git init: Se ejecuta en el directorio raíz del proyecto
+
+
