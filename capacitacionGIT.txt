@@ -3,4 +3,28 @@ Capacitactión GIT
 
 git init: Se ejecuta en el directorio raíz del proyecto
 
+Estados del archivo en GIT
+--------------------------
+untracked
+unmodified
+modified
+staged
 
+git config alias st "status"
+El alias puede ser para un comando con parámetros.
+NOTA: Depende de que se haya instalado al inicio con git
+
+git add <file>
+
+git commit 
+Abre un editor definido en la instalación para escribir el mensaje de Commit... La primera línea de 40 caracteres, el resto con toda la descripción (requerimientos, integrantes, etc.)
+
+
+git status
+
+
+git diff
+Compara con la vesión local (solo lo modificado desde el último cambio)
+
+git diff --cached
+Compara con la versión local pero desde el último commit
