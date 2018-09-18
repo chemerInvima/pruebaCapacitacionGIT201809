@@ -36,3 +36,12 @@ Compara dos versiones del archivo
 
 git checkout -- <file>
 Deshace la versión modificada que no se había adicionado...
+
+git reset HEAD <file>
+Deshace la adición al staged (Deshace el add..)
+
+git checkout <hash>
+Deja los archivos de la versión <hash>
+
+git checkout master
+Restaura los archivos a la última versión commited!!
